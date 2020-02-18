@@ -1,1 +1,1 @@
-print ("hello world dkjfbdkalb")
+print ("hello world")
